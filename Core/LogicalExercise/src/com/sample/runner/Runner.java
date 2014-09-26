@@ -1,4 +1,4 @@
-package com.sandbox.codes;
+package com.sample.runner;
 
 
 public class Runner {
